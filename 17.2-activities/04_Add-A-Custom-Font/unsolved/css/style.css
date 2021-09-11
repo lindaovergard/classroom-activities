@@ -71,6 +71,24 @@ body {font-family: 'Open Sans', sans-serif;
 .regular{
   font-weight: 500;
 }
+.bold{
+  font-weight: 700;
+}
+.typography h1{
+  font-size: 50px;
+  font-weight: 900;
+}
+.typography h2{
+  font-size: 42px;
+  font-weight: 700;
+}
+.typography h3{
+  font-size: 34px;
+  font-weight: 700;
+}
+.typography h4{
+  font-size: 26px;
+}
 .type_container {
    display: inline-block;
    margin: 20px;
@@ -84,6 +102,7 @@ body {font-family: 'Open Sans', sans-serif;
    width: 150px;
    text-align: center;
    color: white;
+   font-size: 14px;
 }
 .primary {
   background-color: #2B459A;
