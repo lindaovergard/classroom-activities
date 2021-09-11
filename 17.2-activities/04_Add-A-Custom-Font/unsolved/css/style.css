@@ -1,3 +1,7 @@
+body {font-family: 'Open Sans', sans-serif;
+
+}
+
 /* Header Styles */
 .header {
   background-image: url(../images/upsBackground.png);
@@ -56,6 +60,17 @@
   background-color: #8ABE48;
 }
 /* Typography CSS */
+.large{
+  font-size: 66px;
+  margin-bottom: 15px;
+  margin-top: 0;
+}
+.light{
+  font-weight: 100;
+}
+.regular{
+  font-weight: 500;
+}
 .type_container {
    display: inline-block;
    margin: 20px;
