@@ -1,11 +1,47 @@
-h1{font-family: 'Source Serif Pro', serif;}
+h1{font-family: 'Source Serif Pro', serif;
+    font-size: 60px;
 
-nav {background-color: darkgray;
-     height: 100px;
+}
+
+nav {background-color: darkgrey;
+     height: 75px;
 }
 .menu-item{
     font-size: 34px;
     display: inline-block;
-    padding: 10px;
+    padding-top: 30px;
+    width: 150px;
+    vertical-align: middle;
+    text-align: center;
+    background-color: orange;
+    color: whitesmoke;
 
+}
+
+.sidebar{
+    width: 28%;
+    background-color: lightsalmon;
+    float: left;
+    height: 1500px;
+    padding: 2%;
+}
+
+.pet-name img{
+    width: 300px;
+
+}
+
+.sidebar ul{
+    list-style-type: none;
+}
+
+.pet-content img{
+    width: 500px;
+
+     
+}
+.main-content{
+    width: 60%;
+    float: left;
+    padding: 2%;
 }
