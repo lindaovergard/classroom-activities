@@ -30,6 +30,7 @@ body {
   background-color: red;
   margin: 0 auto;
   transform: scale(2);
+
 }
 .translate {
   grid-area: translate;
